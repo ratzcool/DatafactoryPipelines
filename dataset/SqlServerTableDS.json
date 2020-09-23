@@ -1,0 +1,13 @@
+{
+	"name": "SqlServerTableDS",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "SqlServerAW",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "SqlServerTable",
+		"schema": []
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}
