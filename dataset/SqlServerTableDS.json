@@ -2,7 +2,7 @@
 	"name": "SqlServerTableDS",
 	"properties": {
 		"linkedServiceName": {
-			"referenceName": "SqlServerAW",
+			"referenceName": "SqlServerConn",
 			"type": "LinkedServiceReference"
 		},
 		"annotations": [],

@@ -1,0 +1,6 @@
+{
+	"name": "integrationRuntimeOnPremTerry",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
